@@ -1,0 +1,6 @@
+﻿  ConsoleApplication40.cpp
+  decypher.cpp
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie2\ConsoleApplication40\decypher.cpp(17,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie2\ConsoleApplication40\decypher.cpp(32,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  ConsoleApplication40.vcxproj -> C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie2\Debug\ConsoleApplication40.exe
