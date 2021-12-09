@@ -1,0 +1,14 @@
+﻿  ConsoleApplication40.cpp
+  cypher.cpp
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(12,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(30,34): warning C4554: „|”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(34,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(38,40): warning C4554: „|”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(140,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  decypher.cpp
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\decypher.cpp(17,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\decypher.cpp(32,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(111): warning C4715: "cypher::ez”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\ConsoleApplication40\cypher.cpp(137): warning C4715: "cypher::d_finder”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication40.vcxproj -> C:\Users\Jakub Wróbel\Desktop\SCI_INF\zadanie3\Debug\ConsoleApplication40.exe
