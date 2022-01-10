@@ -1,0 +1,13 @@
+﻿  ConsoleApplication42.cpp
+  sortowanie.cpp
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(18,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(19,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(54,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(57,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(73,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(80,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(82,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\ConsoleApplication42\sortowanie.cpp(99,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  ConsoleApplication42.vcxproj -> C:\Users\Jakub Wróbel\Desktop\zadanie sortowanie\Debug\ConsoleApplication42.exe
